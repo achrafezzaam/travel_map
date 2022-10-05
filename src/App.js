@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Try for first commit
+          This project is in progress. Exciting things are on the way
         </p>
       </header>
     </div>
